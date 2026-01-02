@@ -1,0 +1,10 @@
+﻿Class , Location , Description , Samples 
+ F0 , No fault , Normal operating condition ,4295
+ F1 , S3 , High-side OC fault ,692
+ F2 , S6 , Low-side OC fault ,1122
+ F3 , S2 , Low-side SC fault ,407
+ F4 , S3 , High-side SC fault ,341
+ F5 , S5 , High-side SC fault ,412
+ F6 , HB1 , Overheating fault ,854
+ F7 , HB1 & HB2 , Overheating fault ,1735
+ F8 , HB3 , Overheating fault ,1034
